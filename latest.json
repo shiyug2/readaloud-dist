@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.5.0",
-  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.5.0/ReadAloud-v0.5.apk",
-  "notes": "全新界面：底部书架/我的，深浅双主题，新中式风格。新增应用内更新检测。"
+  "latestVersion": "0.6.0",
+  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.6.0/ReadAloud-v0.6.apk",
+  "notes": "改名「今日无事」+ 全新图标/开屏。新增免费 Edge 语音引擎(14 个中文音色,含东北/陕西/粤语/台湾腔,免 API Key)。「我的」改版为菜单。清理多余权限。"
 }
