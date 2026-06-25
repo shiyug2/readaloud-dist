@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.7.0",
-  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.7.0/ReadAloud-v0.7.apk",
-  "notes": "12 套新中式封面模板，可自定义题签文字；全局宋体古韵；开屏图加长；角色一键存入角色库 + 已存入标记；顶部氛围图满宽铺顶。"
+  "latestVersion": "0.8.0",
+  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.8.0/ReadAloud-v0.8.apk",
+  "notes": "顶部花瓶氛围图改为整图背景（花瓶+枝叶完整，立于桌面），导入卡/菜单贴桌边；新中式深浅双主题；全局思源宋体古韵；开屏图加长；12 套封面模板可自定义题签；免费 Edge TTS 14 个中文音色；角色一键存入角色库；改名「今日无事」+ 新图标。"
 }
