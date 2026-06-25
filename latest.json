@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.9.2",
-  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.9.2/ReadAloud-v0.9.2.apk",
-  "notes": "排版更秀气:标题/卡片缩小、间距收紧、副标题回归、书卡显示「上次听到 第X章」、进度条更细。修复花瓶背景在部分手机崩坏(改用 aspectRatio)。听书:暂停续播无缝、坏音频不卡死、睡眠定时器到点即停。"
+  "latestVersion": "0.9.3",
+  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.9.3/ReadAloud-v0.9.3.apk",
+  "notes": "花瓶背景终于正常:完整不裁、约¼屏、桌面到底、卡片紧贴照片;排版按设计稿收紧更秀气;全站宋体(含副标题);书卡显示「上次听到 第X章」。听书:暂停续播无缝、坏音频不卡死、睡眠定时器到点即停。"
 }
