@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.6.0",
-  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.6.0/ReadAloud-v0.6.apk",
-  "notes": "改名「今日无事」+ 全新图标/开屏。新增免费 Edge 语音引擎(14 个中文音色,含东北/陕西/粤语/台湾腔,免 API Key)。「我的」改版为菜单。清理多余权限。"
+  "latestVersion": "0.7.0",
+  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.7.0/ReadAloud-v0.7.apk",
+  "notes": "12 套新中式封面模板，可自定义题签文字；全局宋体古韵；开屏图加长；角色一键存入角色库 + 已存入标记；顶部氛围图满宽铺顶。"
 }
