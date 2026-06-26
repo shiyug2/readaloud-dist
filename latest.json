@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.9.3",
-  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/download/v0.9.3/ReadAloud-v0.9.3.apk",
-  "notes": "花瓶背景终于正常:完整不裁、约¼屏、桌面到底、卡片紧贴照片;排版按设计稿收紧更秀气;全站宋体(含副标题);书卡显示「上次听到 第X章」。听书:暂停续播无缝、坏音频不卡死、睡眠定时器到点即停。"
+  "latestVersion": "0.9.4",
+  "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/latest/download/jinriwushi.apk",
+  "notes": "修复听书接口失败;字体/排版各机型统一;封面题签居中、角色保存、输入框等多项体验修复。"
 }
