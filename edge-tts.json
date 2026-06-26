@@ -1,0 +1,4 @@
+{
+  "gecVersion": "143.0.3650.75",
+  "_note": "Edge TTS Chromium version. Bump when app reports edge tts handshake 403. Get current value: edge_tts.constants.CHROMIUM_FULL_VERSION"
+}
