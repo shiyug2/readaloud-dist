@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.9.4",
+  "latestVersion": "0.9.6",
   "apkUrl": "https://github.com/shiyug2/readaloud-dist/releases/latest/download/jinriwushi.apk",
-  "notes": "修复听书接口失败;字体/排版各机型统一;封面题签居中、角色保存、输入框等多项体验修复。"
+  "notes": "修复真机排版比网页松/大、封面题签居中、网格奇数项等;请装后看「我的」卡片是否紧凑。"
 }
